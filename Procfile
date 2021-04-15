@@ -1,0 +1,1 @@
+web: gunicorn instagram_juma.wsgi --log-file -
