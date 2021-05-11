@@ -19,7 +19,7 @@ Take a look at the [frontend](https://github.com/Vincent-Juma/instagram_juma) fo
 -   Django and Django Rest Framework
 -   PostgreSQL
 
-## Instalation
+## Installation
 1. Clone Git repository
 2. activate virtual environment
 3. pip install -r requirements.txt
